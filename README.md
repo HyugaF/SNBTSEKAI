@@ -16,6 +16,20 @@ Tidak perlu akun. Tidak perlu dashboard yang ribet. Pilih kategori, ambil materi
 - **Tampilan responsif** untuk desktop dan mobile
 - **Donasi via Saweria** untuk mendukung pengembangan materi gratis
 
+## Struktur materi
+
+Semua bahan belajar berada di dalam folder `public/Materi/`:
+
+```text
+public/
+└── Materi/
+    ├── TPS/
+    ├── TKA-Saintek/
+    ├── TKA-Soshum/
+    ├── Literasi/
+    └── materi-umum.zip
+```
+
 ### Menambahkan materi baru
 
 1. Masukkan file `.zip` ke folder kategori yang sesuai.
