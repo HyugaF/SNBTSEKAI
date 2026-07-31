@@ -2,7 +2,7 @@
 
 > **Satu ruang belajar. Banyak kemungkinan masa depan.**
 
-SNBT Sekai adalah perpustakaan materi belajar gratis untuk menemani persiapan SNBT dari latihan TPS, materi TKA, sampai bahan literasi yang bisa langsung diunduh dan dipelajari kapan saja.
+SNBT Sekai adalah perpustakaan materi belajar gratis untuk menemani persiapan SNBT — dari latihan TPS, materi TKA, sampai bahan literasi yang bisa langsung diunduh dan dipelajari kapan saja.
 
 Tidak perlu akun. Tidak perlu dashboard yang ribet. Pilih kategori, ambil materinya, lalu mulai belajar.
 
@@ -74,8 +74,7 @@ Punya materi yang bermanfaat, ide fitur, atau menemukan sesuatu yang kurang pas?
 3. Tambahkan perubahanmu.
 4. Buat pull request.
 
-Mari bikin persiapan SNBT terasa sedikit lebih ringan
-satu materi, satu latihan, satu langkah kecil setiap hari.
+Mari bikin persiapan SNBT terasa sedikit lebih ringan — satu materi, satu latihan, satu langkah kecil setiap hari.
 
 ---
 
